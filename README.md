@@ -18,6 +18,11 @@ o	Traducción y estandarización de nombres de columnas a español.
 o	Conversión de la variable diagnostico a formato binario (1 = maligno, 0 = benigno).
 o	Resolución del desbalanceo de clases (357 benignos, 212 malignos) mediante técnicas como sobremuestreo, submuestreo o SMOTE.
 o	Escalado y normalización de características para algoritmos que lo requieren.
+4. Feature Engineering
+o	Verificación de variables y su correlación el target.
+5. Modeling
+o	Funciones para probar regresion logistica, arbol de decisión y random forest
+o	Registro historico de los modelos para hacer graficas y visualizar el desempeño de los modelos
 Instrucciones de Uso
 Requisitos
 •	Lenguaje y Librerías: 
